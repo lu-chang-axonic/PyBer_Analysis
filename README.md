@@ -1,15 +1,14 @@
 <h1 align="center">PyBer Analysis</h1>
 
 ## Overview
-The purpose of this project is to compare the fares of PyBer in three types of cities: Rural, Suburban and Urban. Fare data were analyzed based on number of rides and number of drivers.
+The purpose of this project is to compare the fares of PyBer in three types of cities: Rural, Suburban and Urban. Fare data were analyzed based on type of cities, number of rides, and number of drivers.
 
 ## Results
 
 There are clear differences in ride-sharing data among the different city types. Among all, urban cities have the highest number of rides, highest number of drivers, and lowest average fare per ride and per driver. It shows that people take shorter rides with higher frequency in urban areas. PyBer also enjoys the highest revenue from these cities. In contrast, rural cities have the lowest number of rides, lowest number of drivers, and highest fare per ride and per driver. It shows that people take longer rides with less frequency in rural areas. 
-![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/District%20Summary%20Before.PNG)
-![](https://github.com/lu-chang-axonic/School_District_Analysis/blob/main/images/District%20Summary%20After.PNG)
 
-
+![](https://github.com/lu-chang-axonic/PyBer_Analysis/blob/main/analysis/Summary%20DF.PNG)
+![](https://github.com/lu-chang-axonic/PyBer_Analysis/blob/main/analysis/Summary%20DF.PNG)
 
 ## Summary
 Based on the results, I'd like to provide three business recommendations for addressing any disparities among the city types:
